@@ -1,0 +1,11 @@
+#Build agents and workflows to automate intelligent work.
+
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+
